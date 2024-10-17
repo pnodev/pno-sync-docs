@@ -7,3 +7,11 @@ pnodev:
   socials:
     x: pnodev
     github: kaesetoast
+
+janwolfram:
+  name: Jan Wolfram
+  title: Software Engineer
+  image_url: https://github.com/janwolfram.png
+  page: true
+  socials:
+    github: janwolfram
